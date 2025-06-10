@@ -19,18 +19,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Responsive Layout | Home Page | Login Page |
-|------------------|-----------|------------|
-| ![RWD](public/photos/expense-tracker-RWD.gif) | ![Home](public/photos/index.png) | ![Login](public/photos/login-new.png) |
-
-| Register | Expenses | Revenues |
-|---------|----------|----------|
-| ![Register](public/photos/register-new.png) | ![Expenses](public/photos/expenses.png) | ![Revenues](public/photos/revenues.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Backend**: Node.js, Express.js
@@ -115,11 +103,3 @@ Make sure to:
 * Add environment variables on your hosting platform (e.g., Heroku)
 
 ---
-
-
-
-## 🙌 Credits
-
-Originally developed by [ivyhungtw](https://github.com/ivyhungtw). Forked and maintained by [Sagar B J](https://github.com/sagarbj3245).
-
-```
